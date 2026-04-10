@@ -9,7 +9,7 @@ A simple and intuitive web-based random number generator that lets you generate 
 - Works directly in your browser 🌐
 
 ## Live Demo 🚀
-Check out the live version here: [https://iam269.github.io/Random-Number-Generator/](https://iam269.github.io/Random-Number-Generator/)
+Check out the live version here: [https://itsiamdev.github.io/Random-Number-Generator/](https://itsiamdev.github.io/Random-Number-Generator/)
 
 ## How to Use 📖
 1. Enter your desired minimum value in the "Min" field
